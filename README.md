@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xb21lIy.png" width="100%" alt="Banner">
+<div><img src="https://i.imgur.com/xb21lIy.png" width="100%" alt="Banner"></div>
 
 <h3>SOBRE</h3>
 Tenho interesse em aprofundar meus conhecimentos em infraestrutura de TI, suporte avançado e desenvolvimento de sistemas, buscando sempre aprimorar processos e contribuir para um ambiente tecnológico mais eficiente e seguro.
