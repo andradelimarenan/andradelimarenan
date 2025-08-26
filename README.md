@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/ZlLsRIH.png" width="100%" alt="Banner">
+</div>
 
-<!--
-**andradelimarenan/andradelimarenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>SOBRE</h3>
 
-Here are some ideas to get you started:
+Tenho interesse em aprofundar meus conhecimentos em infraestrutura de TI, suporte avançado e desenvolvimento de sistemas, buscando sempre aprimorar processos e contribuir para um ambiente tecnológico mais eficiente e seguro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou movido pela curiosidade em aprender novas ferramentas, pelo compromisso em entregar soluções eficazes e pela vontade de crescer profissionalmente dentro do setor de tecnologia.
+
+
+<h3>INTERESSES</h3>
+
+- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python">
+- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript">
