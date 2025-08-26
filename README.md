@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/ZlLsRIH.png" width="100%" alt="Banner">
+  <img src="https://i.imgur.com/xb21lIy.png" width="100%" alt="Banner">
 </div>
 
 <h3>SOBRE</h3>
